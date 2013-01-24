@@ -1,7 +1,7 @@
 
 # ==============================================================
 #
-# A look at Enumberable
+# A look at Enumerable
 #
 #
 # Chris McCord - @chris_mccord
