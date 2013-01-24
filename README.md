@@ -1,6 +1,6 @@
 # A look at Enumberable
 
-Author: Chris McCord - [@chrismccord](http://github.com/chrismccord)
+Author: [Chris McCord](http://github.com/chrismccord)
 
 ## Content
   
