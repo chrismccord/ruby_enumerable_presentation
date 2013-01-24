@@ -13,7 +13,7 @@ Author: Chris McCord - [http://github.com/chrismccord]()
 ## Slides
 
 The slides contained within this presentation are plain ruby files that can be 
-run or included for experimentation. The follow examples can get you up 
+run or included for experimentation. The following examples can get you up 
 running/playing on your own machines:
 
     $ git clone git@github.com:chrismccord/ruby_enumerable_presentation.git
