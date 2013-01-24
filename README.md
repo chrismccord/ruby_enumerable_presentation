@@ -1,6 +1,6 @@
 # A look at Enumberable
 
-Author: Chris McCord - [http://github.com/chrismccord]()
+Author: Chris McCord - [@chrismccord](http://github.com/chrismccord)
 
 ## Content
   
@@ -46,13 +46,13 @@ running/playing on your own machines:
   - slide15_a_few_tricks.rb: A collection of interesting enumerable methods
 
 ## Resources
-  - [http://ruby-doc.org/core-1.9.3/Enumerable.html]()
+  - [http://ruby-doc.org/core-1.9.3/Enumerable.html](http://ruby-doc.org/core-1.9.3/Enumerable.html)
   - "Eloquent Ruby", Russ Olsen
 
 
 ## Further resources for beginners
-  - [http://tryruby.org]()
-  - [http://iwanttolearnruby.com]()
+  - [http://tryruby.org](http://tryruby.org)
+  - [http://iwanttolearnruby.com](http://iwanttolearnruby.com)
 
 ## Contributing
 
