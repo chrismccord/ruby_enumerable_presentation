@@ -1,4 +1,4 @@
-# A look at Enumberable
+# A look at Enumerable
 
 Author: [Chris McCord](http://github.com/chrismccord)
 
